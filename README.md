@@ -1,6 +1,6 @@
 # Quasar App (09-quasar)
 
-A Quasar Project
+Proyecto basico de uso de quasar con vue-vuex
 
 ## Install the dependencies
 ```bash
